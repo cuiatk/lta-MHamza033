@@ -55,7 +55,7 @@ public class CustomerTest {
 			
 			//fail("Not yet implemented");
 			String output1 = "Rental Record for Nadir\r\n" + 
-					"	Spancer	33.5\ r\n" + 
+					"	Spancer	33.5\r\n" + 
 					"	Speed	12.0";
 			if(output1.equals(me.statement()))
 			{
